@@ -15,18 +15,34 @@
 
 ### 🛠️ Languages & Tools
 
+#### 👨‍💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,python,java,kotlin,nodejs,laravel,mysql,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,python,java,kotlin,c,cpp,bash" />
 </p>
 
----
+#### 🌐 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,vite" />
+</p>
 
-### 📊 GitHub Stats
+#### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,firebase" />
+</p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yaphb&show_icons=true&theme=tokyonight" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaphb&layout=compact&theme=tokyonight" />
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+#### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,androidstudio,idea,npm,yarn,linux" />
+</p>
+
+#### ☁️ Cloud & Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,docker" />
 </p>
 
 ---
@@ -35,6 +51,14 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Yaphb&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yaphb&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
